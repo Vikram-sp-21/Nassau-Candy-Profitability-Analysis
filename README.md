@@ -2,7 +2,7 @@
 
 ## Project Overview
 
-This project analyzes profitability, margins, division performance, and revenue concentration for Nassau Candy Distributor.
+This project analyzes profitability, margins, division performance, and revenue concentration for [Nassau Candy Distributor](https://www.nassaucandy.com/). 
 
 ## Tools Used
 
